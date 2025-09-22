@@ -1,0 +1,2 @@
+Reflexão:
+Utilizar o Git e o GitHub foi essencial para entender como funciona o controle de versões e o trabalho em equipe no desenvolvimento de software. A criação de branches permitiu isolar funcionalidades e facilitar a integração. Resolver conflitos também mostrou a importância de uma boa comunicação e organização no time. O Gerenciamento de Configuração de Software garante rastreabilidade, controle e segurança no processo de desenvolvimento.
